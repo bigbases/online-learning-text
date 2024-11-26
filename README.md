@@ -1,5 +1,9 @@
 # OL4TeX: Adaptive Online Learning for Text Classification under Distribution Shifts
 
+## Official code repository for IEEE BigData 2024 Published Paper
+
+Min-Seon Kim, Ling Liu, Hyuk-Yoon Kwon (2024)
+
 ## Data Preparation
 
 Datasets are used in the following file structure:
